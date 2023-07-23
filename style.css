@@ -1,0 +1,14 @@
+h1 {
+    color: tomato;
+    background-color: aquamarine;
+
+}
+p {
+    color: blue;
+    background-color: aqua;
+    padding: 50px;
+    border: 2px solid red;
+    border-radius: 20px;
+    margin: 20px;
+    
+}
